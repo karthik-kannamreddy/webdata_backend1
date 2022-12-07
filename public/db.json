@@ -1,0 +1,63 @@
+[
+  {
+  "id":1,
+  "day":"Monday",
+  "category": "Push",
+  "typeofworkout":"Chest",
+  "difficulty": "Medium",
+  "sets": 3,
+  "reps": 12,
+  "resttime": "60 sec"
+
+  },
+  {
+    "id":2,
+    "day":"Tuesday",
+    "category": "Pull",
+    "typeofworkout":"Bicpes and forearms",
+    "difficulty": "easy",
+    "sets": 5,
+    "reps": 8,
+    "resttime": "30 sec"
+  },
+  {
+    "id":3,
+    "day":"Wednesday",
+    "category": "Lower Body",
+    "typeofworkout":"Legs",
+    "difficulty": "Hard",
+    "sets": 4,
+    "reps": 10,
+    "resttime": "Regain Strength"
+  },
+  {
+    "id":4,
+    "day":"Thursday",
+    "category": "Push",
+    "typeofworkout":"Triceps",
+    "difficulty": "Medium",
+    "sets": 3,
+    "reps": 12,
+    "resttime": "60 sec"
+  },
+  {
+    "id":5,
+    "day":"Friday",
+    "category": "Pull",
+    "typeofworkout":"Back",
+    "difficulty": "Medium",
+    "sets": "3",
+    "reps": "15",
+    "resttime": "60 sec"
+  },
+  {
+    "id":6,
+    "day":"Saturday",
+    "category": "Push",
+    "typeofworkout":"Shoulder",
+    "difficulty": "Hard",
+    "sets": 4,
+    "reps": 15,
+    "resttime": "120 sec"
+  }
+]
